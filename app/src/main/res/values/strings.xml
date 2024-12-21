@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratoire02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breaking_news_txt">Breaking news</string>
+    <string name="saved_news_txt">Saved news</string>
+    <string name="search_news_txt">Search news</string>
+    <string name="article_txt">Article</string>
+    <string name="all_news_txt">All news</string>
+    <string name="cover_image_txt">Cover image</string>
+</resources>
